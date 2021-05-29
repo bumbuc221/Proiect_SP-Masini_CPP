@@ -1,0 +1,3 @@
+0,C,Lamborg Huracan,Automat-manual,BENZINA,20000,2,2,4x4,DA,700,5000,INVALID
+1,C,Bentley Coupe,Automat,Hibrid,3000,4,4,4x4,DA,500,4900,INVALID
+2,C,Tesla X,Automat,Electric,700,5,4,2x2,Avansat,400,5000,VALID

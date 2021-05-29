@@ -1,0 +1,3 @@
+C:/Programe C++/masini2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programe C++/masini2/cmake-build-debug/CMakeFiles/masini2.dir
+C:/Programe C++/masini2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

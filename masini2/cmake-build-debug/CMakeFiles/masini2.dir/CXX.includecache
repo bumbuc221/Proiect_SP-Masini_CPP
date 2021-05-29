@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programe C++/masini2/main.cpp
+iostream
+-
+masini.h
+C:/Programe C++/masini2/masini.h
+cstring
+-
+fstream
+-
+conio.h
+-
+
+C:/Programe C++/masini2/masini.cpp
+masini.h
+C:/Programe C++/masini2/masini.h
+cstring
+-
+fstream
+-
+conio.h
+-
+
+C:/Programe C++/masini2/masini.h
+iostream
+-
+cstring
+-
+conio.h
+-
+
